@@ -1,3 +1,3 @@
 # learning-about-version-control
 
-Solving Merge Conflict is easy!
+Solving merge conflicts is easy!
